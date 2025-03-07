@@ -15,12 +15,6 @@ This ROS 2 package implements a solution for automated trajectory visualization 
 - **Configuration and Testing:**  
   - CMakeLists.txt and package.xml are configured with all dependencies.  
   - A launch file is provided to start both nodes along with RViz.
-- **Additional Enhancements:**  
-  - Modular code structure using C++ OOP practices.
-  - Clear documentation and inline comments.
-  - No hard coding of file paths or topic names.
-  - (Extra credit) Includes pseudocode/algorithm explanations in the README.
-  - A video demonstration and trajectory file are also part of the deliverables.
 
 ---
 
